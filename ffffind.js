@@ -93,7 +93,7 @@
 			
 			var json_urls = JSON.encode(found_images);
 
-			fs.writeFile("./ffffound/"+user+".json", json_urls, function(err) {
+			fs.writeFile("./found/"+user+".json", json_urls, function(err) {
 			    if(err) {
 			        console.log(err);
 			    } else {
