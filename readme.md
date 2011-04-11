@@ -6,7 +6,7 @@ Plug in a ffffound username, and the script will traverse the ffffound.com pagin
 
 	$node ffffind.js username
 	
-##Requirements (npm):
+##Dependencies:
 
 - jsdom
 - mootools
