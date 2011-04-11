@@ -1,0 +1,52 @@
+
+found/*
+
+
+
+# Default stuff
+
+
+.*
+!.gitignore
+*~
+*.sw[a-z]
+*.un~
+Session.vim
+.htaccess
+
+# OS X
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+#Textmate
+*.tmproj
+*.tmproject
+tmtags
+
+# KDE
+.directory
+
+# Windows
+Thumbs.db 
+Desktop.ini
+
+#Mercurial
+/.hg/*
+*/.hg/*
+.hgignore
+
+#Subversion
+.svn/
+
+#CakePHP
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+
+/config.yml
+*/config.yml
