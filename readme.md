@@ -5,6 +5,10 @@ Plug in a ffffound username, and the script will traverse the ffffound.com pagin
 ##Usage:
 
 	$node ffffind.js username
+
+then to download the files
+
+	$node gggget.js username
 	
 ##Dependencies:
 
