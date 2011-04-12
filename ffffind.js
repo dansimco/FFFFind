@@ -98,6 +98,7 @@
 			        console.log(err);
 			    } else {
 			        console.log("URLs output to /found/"+user+'.json');
+							console.log("You can use '$node gggget.js "+user+"' to download these files to ./images now");
 			    }
 			});
 			
